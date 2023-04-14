@@ -1,0 +1,8 @@
+python-dotenv
+nltk
+tweepy
+pandas
+gensim
+
+matplotlib
+wordcloud
